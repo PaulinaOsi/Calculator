@@ -1,3 +1,4 @@
+// this application will add two numbers
 public class Calculator {
     private int  num1;
     private int  num2 ;
